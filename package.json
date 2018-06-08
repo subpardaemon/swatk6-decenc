@@ -1,0 +1,27 @@
+{
+  "name": "@swatk6/decenc",
+  "version": "1.0.0",
+  "description": "Plug-in easy encryption, using AES-256-CTR + HMAC hash check.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subpardaemon/swatk6-decenc.git",
+    "web": "https://github.com/subpardaemon/swatk6-decenc/tree/master"
+  },
+  "keywords": [
+    "packet",
+    "network",
+    "layer-agnostic"
+  ],
+  "author": "Andras Kemeny <subpardaemon@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subpardaemon/swatk6-decenc/issues"
+  },
+  "devDependencies": {
+    "@swatk6/tester": "^1.1.0"
+  }
+}
